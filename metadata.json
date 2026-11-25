@@ -1,0 +1,6 @@
+{
+  "name": "Barreira Sanitária POP-01",
+  "description": "Simulação educativa 3D em primeira pessoa da barreira sanitária (POP-01) de uma indústria frigorífica moderna de embutidos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
